@@ -1,0 +1,196 @@
+
+
+/*Cuerpo*/
+body{
+    font-family: 'Roboto', sans-serif;
+    width: 80%;
+    margin: 5%;
+    background-color:lightblue;
+    margin-bottom: 50px;
+
+}
+
+header {
+    background-color: black;
+    border-bottom-right-radius: 20px;
+}       
+
+a {
+    color: white;
+    font-size: 25px;
+    margin-left: 1%;
+    text-decoration: none;
+}
+
+.a2 {
+    color: black;
+    font-size: 25px;
+    margin-left: 1%;
+    text-decoration: none;
+}
+
+/*Estilos aplicados al texto*/
+h2 {
+    border-color: aqua;
+    text-align: center;
+    color: brown
+}
+
+h4 {
+    text-align: justify;
+    
+}
+
+
+h5{}
+
+#curriculum {
+    text-align: center;
+
+}
+
+#default {
+        text-align: center;
+        color: black;
+
+}
+
+    
+}
+
+/*prueba*/
+td:hover{
+}
+
+/*Estilos aplicados a la barra de navegación*/
+/*tabla*/
+#navegacion {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    border: 3;
+    width: 60%;
+}
+
+/*td color al seleccionar*/
+td:hover{
+    color: #FFFFFF;
+    background-color: lightcoral;
+}
+
+/*Presentación*/
+/*tabla información personal*/
+#informacion {
+
+    text-align: justify;
+    width: 50%;
+    background-color: beige;
+    padding: 20px;
+    margin-left: 40px;
+    border-radius: 15px;
+    border: 1px solid black;
+    
+}
+
+/*td color al seleccionar*/
+
+#tdinformacionfoto {
+    color: black;
+    background-color: beige;
+    border-collapse: collapse;
+    text-align: right;
+}
+
+
+
+
+
+#tdinformacion {
+    color: black;
+    background-color: beige;
+    border-collapse: collapse;
+    text-align: justify;
+   
+}
+
+#fperfil {
+    width: 100px;
+    border: 1px solid black;   
+    border-radius: 10px;    
+}
+
+
+
+
+
+table {
+    
+}
+
+
+
+
+
+
+
+
+
+#lipresentacion {
+            margin-left: 10%;
+            color: black;
+}
+
+¡
+
+#ulpresent {
+             margin-left: 20%;
+
+}
+
+
+
+#h4formación {
+    text-align: center;
+}
+
+#ulformacion {
+    margin-left: 30%;
+}
+
+#ulidiomas {
+        margin-left: 35%;
+
+}
+
+#ulexper {
+    margin-left: 30%;
+}
+
+
+
+
+#urlategua {
+    text-decoration:underline;
+    color: black;
+    
+}
+hover{
+    
+    font-size: 18px;
+}
+
+
+
+#iidiomas {
+     width="50%" 
+    height="500" 
+    border:0
+}
+
+#ilocate {
+    border-radius: 100px;
+    border: 1px solid black;
+    height: 300px;
+    width: 40%;
+}
+
